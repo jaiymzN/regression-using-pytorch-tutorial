@@ -137,9 +137,8 @@ Based on the analysis:
 ## 🎓 Academic Context
 
 This project was completed as part of:
-- **Course**: ANLY-6500
+- **Course**: ANLY-6500: Advanced Data Analytics
 - **Module**: 3 - Regression Using PyTorch
-- **Assignment**: Homework 3
 
 ## 📧 Contact
 
